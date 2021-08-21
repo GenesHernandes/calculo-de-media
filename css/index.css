@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#titulo {
+    font-family:  cursive; 
+    color: #2E2EFE;
+    margin-left: 1%;
+}
+
+fieldset {
+    border: 1%;
+   border-color: #0404B4;
+   border-radius: 5%;
+   background-color: #CECEF6;
+   margin-right: 70%;
+   
+}
+
+body {
+    background-color: #EFF2FB;
+    font-family: cursive;
+    font-size: 1em;
+    color: #2e2efe;
+    margin-left: 30%;
+    margin-top: 2%;
+    justify-content: center;
+     
+}
+
+input {
+    border-radius: 5px;
+}
+
+.campo {
+    margin-bottom: 0.3em;
+}
+
+.botao {
+    font-size: 0.85em;
+    font-family: cursive;
+    background:#CECEF6;
+    border-radius: 5px;
+    margin-left: 40%;
+
+}
